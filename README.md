@@ -1,2 +1,2 @@
 # InteractiveCalendar
-L'idée est de créer un calendrier interactif plus simple a utiliser que celui de l'ent ou on pourra marquer des évènement importants / ajouter et retirer des dates / implémenter son emploi du temps dans le calendrier. TEST
+L'idée est de créer une app interactive simple a utiliser pour organiser tout ses dates importantes dans une seule application, l'app pourra implémenter notre calendrier de l'ent par exemple et le rendre plus simple a naviguer.
